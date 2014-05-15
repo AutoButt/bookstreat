@@ -1,4 +1,4 @@
 bookstreat
 ==========
 
-Share/Exchange/Sell books near your locality
+Share/Exchange/Sell books near your locality.
